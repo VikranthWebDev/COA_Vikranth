@@ -13,15 +13,13 @@ Lab Experiments
 
 ## Experiment 1: Universal Gates – Logic Gates Using NAND & NOR
 
-**Date:** Pre-lab (foundational experiment)
-
 ### Objective
 To implement all fundamental logic gates (OR, AND, NOT, XOR, XNOR) using:
 1. Only NAND gates
 2. Only NOR gates
 
 ### Theory
-NAND and NOR are called **universal gates** because any Boolean function — and therefore any digital circuit — can be built entirely from just one of these gate types. This property makes them crucial in real-world chip manufacturing, as fabricating a single gate type reduces cost and complexity.
+NAND and NOR are called **universal gates** because any Boolean function — and therefore any digital circuit can be built entirely from just one of these gate types. This property makes them crucial in real-world chip manufacturing, as fabricating a single gate type reduces cost and complexity.
 
 ### Implementations
 
