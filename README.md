@@ -1,7 +1,7 @@
 # COA_Vikranth
 Lab Experiments
 
-#Table of Contents
+##Table of Contents
 
 1. [Universal Gates – Logic Gates Using NAND & NOR]
 2. [Half Adder, Full Adder & 4-bit Adder]
@@ -46,7 +46,7 @@ NAND and NOR are called **universal gates** because any Boolean function — and
 ### Tools Used
 - Logisim
 
----
+
 
 ## Experiment 2: Half Adder, Full Adder & 4-bit Adder
 
@@ -96,7 +96,6 @@ It cannot account for a carry from a previous stage.
 ### Tools Used
 - Logisim
 
----
 
 ## Experiment 3: 8×1 Multiplexer & 8×3 Encoder
 
@@ -136,7 +135,7 @@ A0 = I1 + I3 + I5 + I7
 ### Tools Used
 - Logisim
 
----
+
 
 ## Experiment 4: 4-bit Ripple Carry Adder & Propagation Delay
 
@@ -167,7 +166,7 @@ This delay grows linearly with bit width, which is why faster architectures like
 ### Tools Used
 - Logisim
 
----
+
 
 ## Experiment 5: GNU Debugger (GDB) – Program Flow Analysis
 
@@ -212,7 +211,7 @@ By stepping through a program, one can observe:
 - GCC Compiler
 - Linux Terminal
 
----
+
 
 ## Experiment 6: Addressing Modes in C using GDB
 
@@ -256,7 +255,7 @@ Using `disassemble` and `stepi`, the assembly instructions generated for differe
 - GCC Compiler
 - Linux Terminal
 
----
+
 
 ## Experiment 7: 4-bit Common Bus System using MUX & Registers
 
