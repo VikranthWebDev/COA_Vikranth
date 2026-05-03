@@ -48,6 +48,7 @@ NAND and NOR are called **universal gates** because any Boolean function — and
 
 
 
+
 ## Experiment 2: Half Adder, Full Adder & 4-bit Adder
 
 **Date:** 19-01-26
@@ -95,6 +96,7 @@ It cannot account for a carry from a previous stage.
 
 ### Tools Used
 - Logisim
+
 
 
 ## Experiment 3: 8×1 Multiplexer & 8×3 Encoder
@@ -304,7 +306,8 @@ The common bus architecture is fundamental in CPU design — it is the basis of 
 ### Tools Used
 - Logisim
 
----
+
+
 
 ## 🛠️ Tools & Software
 
